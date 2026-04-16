@@ -1,0 +1,9 @@
+{
+    "dbname": "MDSRmaps",
+    "user": "postgres",
+    "pwd": "postgres",
+    "host": "",
+    "geometry_table_name": "geom_tbl",
+    "geometry_type": "geometry",
+    "SRID": 3857
+}

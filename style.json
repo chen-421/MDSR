@@ -1,0 +1,28 @@
+{
+  "style": [
+    {
+      "selector": "node[class='GeoEntity']",
+      "style": {
+        "shape": "rectangle",
+        "background-color": "#6FB1FC",
+        "label": "data(label)"
+      }
+    },
+    {
+      "selector": "node[class='SpatialRelation']",
+      "style": {
+        "shape": "diamond",
+        "background-color": "#F5A45D",
+        "width": 20,
+        "height": 20
+      }
+    },
+    {
+      "selector": "edge[interaction='hasRelation']",
+      "style": {
+        "line-color": "#FF0000",
+        "width": "mapData(weight, 0, 1, 1, 5)"
+      }
+    }
+  ]
+}

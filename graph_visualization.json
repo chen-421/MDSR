@@ -1,0 +1,584 @@
+{
+  "elements": {
+    "nodes": [
+      {
+        "data": {
+          "id": "https://geomapgraph.org/resource/43918682",
+          "ntype": "GeoEntity",
+          "label": "Oberfeldpark",
+          "name": "Oberfeldpark",
+          "entityType": "park",
+          "geoType": "POLYGON",
+          "gen_time": "None",
+          "area": 0.0
+        }
+      },
+      {
+        "data": {
+          "id": "https://geomapgraph.org/resource/80444564",
+          "ntype": "GeoEntity",
+          "label": "park",
+          "name": "None",
+          "entityType": "park",
+          "geoType": "POLYGON",
+          "gen_time": "None",
+          "area": 0.0
+        }
+      },
+      {
+        "data": {
+          "id": "https://geomapgraph.org/resource/141307151",
+          "ntype": "GeoEntity",
+          "label": "residential",
+          "name": "None",
+          "entityType": "residential",
+          "geoType": "POLYGON",
+          "gen_time": "None",
+          "area": 0.0
+        }
+      },
+      {
+        "data": {
+          "id": "https://geomapgraph.org/resource/543328582",
+          "ntype": "GeoEntity",
+          "label": "KFZ Werkstatt Naujock",
+          "name": "KFZ Werkstatt Naujock",
+          "entityType": "commercial",
+          "geoType": "POLYGON",
+          "gen_time": "None",
+          "area": 0.0
+        }
+      },
+      {
+        "data": {
+          "id": "https://geomapgraph.org/resource/806460116",
+          "ntype": "GeoEntity",
+          "label": "grass",
+          "name": "None",
+          "entityType": "grass",
+          "geoType": "POLYGON",
+          "gen_time": "None",
+          "area": 0.0
+        }
+      },
+      {
+        "data": {
+          "id": "https://geomapgraph.org/resource/16252243",
+          "ntype": "GeoEntity",
+          "label": "Schlosspark Biesdorf",
+          "name": "Schlosspark Biesdorf",
+          "entityType": "forest",
+          "geoType": "POLYGON",
+          "gen_time": "None",
+          "area": 0.0
+        }
+      },
+      {
+        "data": {
+          "id": "https://geomapgraph.org/resource/1225300243",
+          "ntype": "GeoEntity",
+          "label": "residential",
+          "name": "None",
+          "entityType": "residential",
+          "geoType": "POLYGON",
+          "gen_time": "None",
+          "area": 0.0
+        }
+      },
+      {
+        "data": {
+          "id": "https://geomapgraph.org/resource/43767919",
+          "ntype": "GeoEntity",
+          "label": "Schloss Biesdorf",
+          "name": "Schloss Biesdorf",
+          "entityType": "museum",
+          "geoType": "POLYGON",
+          "gen_time": "None",
+          "area": 0.0
+        }
+      },
+      {
+        "data": {
+          "id": "https://geomapgraph.org/resource/379816734",
+          "ntype": "GeoEntity",
+          "label": "Kita Schneckenhaus",
+          "name": "Kita Schneckenhaus",
+          "entityType": "kindergarten",
+          "geoType": "POLYGON",
+          "gen_time": "None",
+          "area": 0.0
+        }
+      },
+      {
+        "data": {
+          "id": "https://geomapgraph.org/resource/514553688",
+          "ntype": "GeoEntity",
+          "label": "Biesdorfer Parkbühne",
+          "name": "Biesdorfer Parkbühne",
+          "entityType": "theatre",
+          "geoType": "POLYGON",
+          "gen_time": "None",
+          "area": 0.0
+        }
+      },
+      {
+        "data": {
+          "id": "https://geomapgraph.org/resource/8654435",
+          "ntype": "GeoEntity",
+          "label": "Oberfeldstra?e",
+          "name": "Oberfeldstra?e",
+          "entityType": "tertiary",
+          "geoType": "LINESTRING",
+          "gen_time": "None",
+          "area": 587.1064
+        }
+      },
+      {
+        "data": {
+          "id": "https://geomapgraph.org/resource/30898964",
+          "ntype": "GeoEntity",
+          "label": "Alt-Biesdorf",
+          "name": "Alt-Biesdorf",
+          "entityType": "primary",
+          "geoType": "LINESTRING",
+          "gen_time": "None",
+          "area": 1039.2688
+        }
+      },
+      {
+        "data": {
+          "id": "https://geomapgraph.org/resource/22978587",
+          "ntype": "GeoEntity",
+          "label": "Schlossteich",
+          "name": "Schlossteich",
+          "entityType": "water",
+          "geoType": "POLYGON",
+          "gen_time": "None",
+          "area": 0.0
+        }
+      },
+      {
+        "data": {
+          "id": "https://geomapgraph.org/resource/relation_43767919_379816734",
+          "ntype": "SpatialRelation",
+          "label": "disjoint",
+          "topology": "disjoint",
+          "distance": 126.3452326600688,
+          "overlappingArea": null,
+          "sem": "None",
+          "weight": 0.3799114156529324
+        }
+      },
+      {
+        "data": {
+          "id": "https://geomapgraph.org/resource/relation_43767919_514553688",
+          "ntype": "SpatialRelation",
+          "label": "disjoint",
+          "topology": "disjoint",
+          "distance": 285.5443719278184,
+          "overlappingArea": null,
+          "sem": "None",
+          "weight": 0.16809996287068862
+        }
+      },
+      {
+        "data": {
+          "id": "https://geomapgraph.org/resource/relation_43767919_8654435",
+          "ntype": "SpatialRelation",
+          "label": "disjoint",
+          "topology": "disjoint",
+          "distance": 400.98060390742205,
+          "overlappingArea": null,
+          "sem": "None",
+          "weight": 0.11970653526677025
+        }
+      },
+      {
+        "data": {
+          "id": "https://geomapgraph.org/resource/relation_43767919_30898964",
+          "ntype": "SpatialRelation",
+          "label": "disjoint",
+          "topology": "disjoint",
+          "distance": 123.64447361036406,
+          "overlappingArea": null,
+          "sem": "None",
+          "weight": 0.38820979794990684
+        }
+      },
+      {
+        "data": {
+          "id": "https://geomapgraph.org/resource/relation_43767919_22978587",
+          "ntype": "SpatialRelation",
+          "label": "disjoint",
+          "topology": "disjoint",
+          "distance": 113.67365081183114,
+          "overlappingArea": null,
+          "sem": "None",
+          "weight": 0.29516483134933025
+        }
+      },
+      {
+        "data": {
+          "id": "https://geomapgraph.org/resource/relation_379816734_514553688",
+          "ntype": "SpatialRelation",
+          "label": "disjoint",
+          "topology": "disjoint",
+          "distance": 357.35859388894573,
+          "overlappingArea": null,
+          "sem": "None",
+          "weight": 0.13431885920092942
+        }
+      },
+      {
+        "data": {
+          "id": "https://geomapgraph.org/resource/relation_379816734_8654435",
+          "ntype": "SpatialRelation",
+          "label": "disjoint",
+          "topology": "disjoint",
+          "distance": 175.19941792097055,
+          "overlappingArea": null,
+          "sem": "None",
+          "weight": 0.2739734973429935
+        }
+      },
+      {
+        "data": {
+          "id": "https://geomapgraph.org/resource/relation_379816734_30898964",
+          "ntype": "SpatialRelation",
+          "label": "disjoint",
+          "topology": "disjoint",
+          "distance": 58.193570829015826,
+          "overlappingArea": null,
+          "sem": "None",
+          "weight": 0.48264072108055
+        }
+      },
+      {
+        "data": {
+          "id": "https://geomapgraph.org/resource/relation_379816734_22978587",
+          "ntype": "SpatialRelation",
+          "label": "disjoint",
+          "topology": "disjoint",
+          "distance": 288.70361933148956,
+          "overlappingArea": null,
+          "sem": "None",
+          "weight": 0.16626046617822876
+        }
+      },
+      {
+        "data": {
+          "id": "https://geomapgraph.org/resource/relation_514553688_8654435",
+          "ntype": "SpatialRelation",
+          "label": "disjoint",
+          "topology": "disjoint",
+          "distance": 495.82131232753386,
+          "overlappingArea": null,
+          "sem": "None",
+          "weight": 0.09680906778004952
+        }
+      },
+      {
+        "data": {
+          "id": "https://geomapgraph.org/resource/relation_514553688_30898964",
+          "ntype": "SpatialRelation",
+          "label": "disjoint",
+          "topology": "disjoint",
+          "distance": 455.6431353568786,
+          "overlappingArea": null,
+          "sem": "None",
+          "weight": 0.10534559882911093
+        }
+      },
+      {
+        "data": {
+          "id": "https://geomapgraph.org/resource/relation_514553688_22978587",
+          "ntype": "SpatialRelation",
+          "label": "disjoint",
+          "topology": "disjoint",
+          "distance": 176.81300271569214,
+          "overlappingArea": null,
+          "sem": "None",
+          "weight": 0.271473231877916
+        }
+      },
+      {
+        "data": {
+          "id": "https://geomapgraph.org/resource/relation_8654435_30898964",
+          "ntype": "SpatialRelation",
+          "label": "touches",
+          "topology": "touches",
+          "distance": null,
+          "overlappingArea": null,
+          "sem": "None",
+          "weight": 0.7
+        }
+      },
+      {
+        "data": {
+          "id": "https://geomapgraph.org/resource/relation_8654435_22978587",
+          "ntype": "SpatialRelation",
+          "label": "disjoint",
+          "topology": "disjoint",
+          "distance": 557.4872659841574,
+          "overlappingArea": null,
+          "sem": "None",
+          "weight": 0.08610061981282613
+        }
+      },
+      {
+        "data": {
+          "id": "https://geomapgraph.org/resource/relation_30898964_22978587",
+          "ntype": "SpatialRelation",
+          "label": "disjoint",
+          "topology": "disjoint",
+          "distance": 239.6801103648588,
+          "overlappingArea": null,
+          "sem": "None",
+          "weight": 0.20026692212491737
+        }
+      }
+    ],
+    "edges": [
+      {
+        "data": {
+          "id": "https://geomapgraph.org/resource/43767919-https://geomapgraph.org/resource/relation_43767919_379816734",
+          "source": "https://geomapgraph.org/resource/43767919",
+          "target": "https://geomapgraph.org/resource/relation_43767919_379816734",
+          "interaction": "hasRelation"
+        }
+      },
+      {
+        "data": {
+          "id": "https://geomapgraph.org/resource/relation_43767919_379816734-https://geomapgraph.org/resource/379816734",
+          "source": "https://geomapgraph.org/resource/relation_43767919_379816734",
+          "target": "https://geomapgraph.org/resource/379816734",
+          "interaction": "relatesTo"
+        }
+      },
+      {
+        "data": {
+          "id": "https://geomapgraph.org/resource/43767919-https://geomapgraph.org/resource/relation_43767919_514553688",
+          "source": "https://geomapgraph.org/resource/43767919",
+          "target": "https://geomapgraph.org/resource/relation_43767919_514553688",
+          "interaction": "hasRelation"
+        }
+      },
+      {
+        "data": {
+          "id": "https://geomapgraph.org/resource/relation_43767919_514553688-https://geomapgraph.org/resource/514553688",
+          "source": "https://geomapgraph.org/resource/relation_43767919_514553688",
+          "target": "https://geomapgraph.org/resource/514553688",
+          "interaction": "relatesTo"
+        }
+      },
+      {
+        "data": {
+          "id": "https://geomapgraph.org/resource/43767919-https://geomapgraph.org/resource/relation_43767919_8654435",
+          "source": "https://geomapgraph.org/resource/43767919",
+          "target": "https://geomapgraph.org/resource/relation_43767919_8654435",
+          "interaction": "hasRelation"
+        }
+      },
+      {
+        "data": {
+          "id": "https://geomapgraph.org/resource/relation_43767919_8654435-https://geomapgraph.org/resource/8654435",
+          "source": "https://geomapgraph.org/resource/relation_43767919_8654435",
+          "target": "https://geomapgraph.org/resource/8654435",
+          "interaction": "relatesTo"
+        }
+      },
+      {
+        "data": {
+          "id": "https://geomapgraph.org/resource/43767919-https://geomapgraph.org/resource/relation_43767919_30898964",
+          "source": "https://geomapgraph.org/resource/43767919",
+          "target": "https://geomapgraph.org/resource/relation_43767919_30898964",
+          "interaction": "hasRelation"
+        }
+      },
+      {
+        "data": {
+          "id": "https://geomapgraph.org/resource/relation_43767919_30898964-https://geomapgraph.org/resource/30898964",
+          "source": "https://geomapgraph.org/resource/relation_43767919_30898964",
+          "target": "https://geomapgraph.org/resource/30898964",
+          "interaction": "relatesTo"
+        }
+      },
+      {
+        "data": {
+          "id": "https://geomapgraph.org/resource/43767919-https://geomapgraph.org/resource/relation_43767919_22978587",
+          "source": "https://geomapgraph.org/resource/43767919",
+          "target": "https://geomapgraph.org/resource/relation_43767919_22978587",
+          "interaction": "hasRelation"
+        }
+      },
+      {
+        "data": {
+          "id": "https://geomapgraph.org/resource/relation_43767919_22978587-https://geomapgraph.org/resource/22978587",
+          "source": "https://geomapgraph.org/resource/relation_43767919_22978587",
+          "target": "https://geomapgraph.org/resource/22978587",
+          "interaction": "relatesTo"
+        }
+      },
+      {
+        "data": {
+          "id": "https://geomapgraph.org/resource/379816734-https://geomapgraph.org/resource/relation_379816734_514553688",
+          "source": "https://geomapgraph.org/resource/379816734",
+          "target": "https://geomapgraph.org/resource/relation_379816734_514553688",
+          "interaction": "hasRelation"
+        }
+      },
+      {
+        "data": {
+          "id": "https://geomapgraph.org/resource/relation_379816734_514553688-https://geomapgraph.org/resource/514553688",
+          "source": "https://geomapgraph.org/resource/relation_379816734_514553688",
+          "target": "https://geomapgraph.org/resource/514553688",
+          "interaction": "relatesTo"
+        }
+      },
+      {
+        "data": {
+          "id": "https://geomapgraph.org/resource/379816734-https://geomapgraph.org/resource/relation_379816734_8654435",
+          "source": "https://geomapgraph.org/resource/379816734",
+          "target": "https://geomapgraph.org/resource/relation_379816734_8654435",
+          "interaction": "hasRelation"
+        }
+      },
+      {
+        "data": {
+          "id": "https://geomapgraph.org/resource/relation_379816734_8654435-https://geomapgraph.org/resource/8654435",
+          "source": "https://geomapgraph.org/resource/relation_379816734_8654435",
+          "target": "https://geomapgraph.org/resource/8654435",
+          "interaction": "relatesTo"
+        }
+      },
+      {
+        "data": {
+          "id": "https://geomapgraph.org/resource/379816734-https://geomapgraph.org/resource/relation_379816734_30898964",
+          "source": "https://geomapgraph.org/resource/379816734",
+          "target": "https://geomapgraph.org/resource/relation_379816734_30898964",
+          "interaction": "hasRelation"
+        }
+      },
+      {
+        "data": {
+          "id": "https://geomapgraph.org/resource/relation_379816734_30898964-https://geomapgraph.org/resource/30898964",
+          "source": "https://geomapgraph.org/resource/relation_379816734_30898964",
+          "target": "https://geomapgraph.org/resource/30898964",
+          "interaction": "relatesTo"
+        }
+      },
+      {
+        "data": {
+          "id": "https://geomapgraph.org/resource/379816734-https://geomapgraph.org/resource/relation_379816734_22978587",
+          "source": "https://geomapgraph.org/resource/379816734",
+          "target": "https://geomapgraph.org/resource/relation_379816734_22978587",
+          "interaction": "hasRelation"
+        }
+      },
+      {
+        "data": {
+          "id": "https://geomapgraph.org/resource/relation_379816734_22978587-https://geomapgraph.org/resource/22978587",
+          "source": "https://geomapgraph.org/resource/relation_379816734_22978587",
+          "target": "https://geomapgraph.org/resource/22978587",
+          "interaction": "relatesTo"
+        }
+      },
+      {
+        "data": {
+          "id": "https://geomapgraph.org/resource/514553688-https://geomapgraph.org/resource/relation_514553688_8654435",
+          "source": "https://geomapgraph.org/resource/514553688",
+          "target": "https://geomapgraph.org/resource/relation_514553688_8654435",
+          "interaction": "hasRelation"
+        }
+      },
+      {
+        "data": {
+          "id": "https://geomapgraph.org/resource/relation_514553688_8654435-https://geomapgraph.org/resource/8654435",
+          "source": "https://geomapgraph.org/resource/relation_514553688_8654435",
+          "target": "https://geomapgraph.org/resource/8654435",
+          "interaction": "relatesTo"
+        }
+      },
+      {
+        "data": {
+          "id": "https://geomapgraph.org/resource/514553688-https://geomapgraph.org/resource/relation_514553688_30898964",
+          "source": "https://geomapgraph.org/resource/514553688",
+          "target": "https://geomapgraph.org/resource/relation_514553688_30898964",
+          "interaction": "hasRelation"
+        }
+      },
+      {
+        "data": {
+          "id": "https://geomapgraph.org/resource/relation_514553688_30898964-https://geomapgraph.org/resource/30898964",
+          "source": "https://geomapgraph.org/resource/relation_514553688_30898964",
+          "target": "https://geomapgraph.org/resource/30898964",
+          "interaction": "relatesTo"
+        }
+      },
+      {
+        "data": {
+          "id": "https://geomapgraph.org/resource/514553688-https://geomapgraph.org/resource/relation_514553688_22978587",
+          "source": "https://geomapgraph.org/resource/514553688",
+          "target": "https://geomapgraph.org/resource/relation_514553688_22978587",
+          "interaction": "hasRelation"
+        }
+      },
+      {
+        "data": {
+          "id": "https://geomapgraph.org/resource/relation_514553688_22978587-https://geomapgraph.org/resource/22978587",
+          "source": "https://geomapgraph.org/resource/relation_514553688_22978587",
+          "target": "https://geomapgraph.org/resource/22978587",
+          "interaction": "relatesTo"
+        }
+      },
+      {
+        "data": {
+          "id": "https://geomapgraph.org/resource/8654435-https://geomapgraph.org/resource/relation_8654435_30898964",
+          "source": "https://geomapgraph.org/resource/8654435",
+          "target": "https://geomapgraph.org/resource/relation_8654435_30898964",
+          "interaction": "hasRelation"
+        }
+      },
+      {
+        "data": {
+          "id": "https://geomapgraph.org/resource/relation_8654435_30898964-https://geomapgraph.org/resource/30898964",
+          "source": "https://geomapgraph.org/resource/relation_8654435_30898964",
+          "target": "https://geomapgraph.org/resource/30898964",
+          "interaction": "relatesTo"
+        }
+      },
+      {
+        "data": {
+          "id": "https://geomapgraph.org/resource/8654435-https://geomapgraph.org/resource/relation_8654435_22978587",
+          "source": "https://geomapgraph.org/resource/8654435",
+          "target": "https://geomapgraph.org/resource/relation_8654435_22978587",
+          "interaction": "hasRelation"
+        }
+      },
+      {
+        "data": {
+          "id": "https://geomapgraph.org/resource/relation_8654435_22978587-https://geomapgraph.org/resource/22978587",
+          "source": "https://geomapgraph.org/resource/relation_8654435_22978587",
+          "target": "https://geomapgraph.org/resource/22978587",
+          "interaction": "relatesTo"
+        }
+      },
+      {
+        "data": {
+          "id": "https://geomapgraph.org/resource/30898964-https://geomapgraph.org/resource/relation_30898964_22978587",
+          "source": "https://geomapgraph.org/resource/30898964",
+          "target": "https://geomapgraph.org/resource/relation_30898964_22978587",
+          "interaction": "hasRelation"
+        }
+      },
+      {
+        "data": {
+          "id": "https://geomapgraph.org/resource/relation_30898964_22978587-https://geomapgraph.org/resource/22978587",
+          "source": "https://geomapgraph.org/resource/relation_30898964_22978587",
+          "target": "https://geomapgraph.org/resource/22978587",
+          "interaction": "relatesTo"
+        }
+      }
+    ]
+  }
+}
