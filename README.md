@@ -75,11 +75,10 @@ If you would like to cite this work in a paper or a presentation, the following 
 如果您在研究中使用了本工具，请引用：
 
 ```bibtex
-@article{shbita2023building,
-  title={Building Spatio-Temporal Knowledge Graphs from Vectorized Topographic Historical Maps},
-  author={Shbita, Basel and Knoblock, Craig A and Duan, Weiwei and Chiang, Yao-Yi and Uhl, Johannes H and Leyk, Stefan},
-  journal={Semantic Web},
-  year={2023},
-  publisher={IOS Press}
+@article{
+  title={MDSR-KG: A Geographical Knowledge Graph Framework For Representing and Quantifying Spatial Relationships},
+  author={Ying Chen, Jixian Zhang, Juan Ge and Zhanji Peng},
+  journal={ISPRS International Journal of Geo-Information},
+  year={2026}
 }
 ```
