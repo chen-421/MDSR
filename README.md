@@ -7,7 +7,7 @@ The process runs in three steps (see the following sections):
 2. __Adaptive Weight Calculation Based on Distance and Topological Relationships__
 3. __Constructing Knowledge Graph  (`RDF`)__
 
-This is the implementation accompanying the paper _Building Linked Spatio-Temporal Data from Vectorized Historical Maps_ published in the 17th Extended Semantic Web Conference (ESWC 2020).
+This is the implementation accompanying the paper _MDSR-KG: A Geographical Knowledge Graph Framework For Representing and Quantifying Spatial Relationships_ published in ISPRS International Journal of Geo-Information.
 
 ------------------
 
